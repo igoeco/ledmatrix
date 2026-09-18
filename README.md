@@ -1,2 +1,2 @@
 # ledmatrix
-A Python Library for a 16x16 WS2812B LED Matrix
+A Python Library for a 16x16 WS2812B LED Matrix on the BBC Microbit (works on both v1 and v2)
