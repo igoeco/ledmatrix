@@ -1,5 +1,5 @@
 """
-    Image Display on 16x16 LED display
+    Image Display on 16x16 LED display with just the builtin neopixel library
 """
 from microbit import *
 import neopixel
