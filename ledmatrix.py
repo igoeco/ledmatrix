@@ -1,4 +1,6 @@
 # microbit-module: ledmatrix@1.0.0
+# Author: Ramesh Yerraballi
+# Date: Spring 2026
 """
 Note: Make sure and upload this file to the microbit everytime a
 change is made
